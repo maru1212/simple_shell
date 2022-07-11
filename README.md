@@ -1,0 +1,1 @@
+This directory includes the project simple shell.
